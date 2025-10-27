@@ -104,7 +104,26 @@ Fig. 3: Key strategies for **Model Compression** in VLAs. We illustrate three pr
 | 2025 | arXiv | [SQAP-VLA: A Synergistic Quantization-Aware Pruning Framework for High-Performance Vision-Language-Action Models](https://arxiv.org/abs/2509.09090) | - | [💻](https://github.com/ecdine/SQAP-VLA) |
 
 ##### Token Optimization
-- VLA-Cache: Towards Efficient Vision-Language-Action Model via Adaptive Token Caching in Robotic Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2502.02175)]
+| Year | Venue | Paper | Website | Code |
+|------|-------|-------|---------|------|
+| 2025 | arXiv | [FAST: Efficient Action Tokenization for Vision-Language-Action Models](https://arxiv.org/abs/2501.09747) | [🌐](https://www.pi.website/research/fast) | [💻](https://github.com/Physical-Intelligence/openpi) |
+| 2025 | arXiv | [VLA-Cache: Towards Efficient Vision-Language-Action Model via Adaptive Token Caching in Robotic Manipulation](https://arxiv.org/abs/2502.02175) | [🌐](https://vla-cache.github.io/) | [💻](https://github.com/siyuhsu/vla-cache) |
+| 2025 | arXiv | [HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model](https://arxiv.org/abs/2503.10631) | [🌐](https://hybrid-vla.github.io/) | [💻](https://github.com/PKU-HMI-Lab/Hybrid-VLA) |
+| 2025 | arXiv | [Think Twice, Act Once: Token-Aware Compression and Action Reuse for Efficient Inference in Vision-Language-Action Models](https://arxiv.org/abs/2505.21200) | - | - |
+| 2025 | arXiv | [SmolVLA: A vision-language-action model for affordable and efficient robotics](https://arxiv.org/abs/2506.01844) | [🌐](https://huggingface.co/blog/smolvla) | [💻](https://github.com/huggingface/lerobot/tree/main/src/lerobot/policies/smolvla) |
+| 2025 | arXiv | [Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse](https://arxiv.org/abs/2506.07639) | - | - |
+| 2025 | arXiv | [EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models](https://arxiv.org/abs/2506.10100) | - | - |
+| 2025 | arXiv | [SP-VLA: A Joint Model Scheduling and Token Pruning Approach for VLA Model Acceleration](https://arxiv.org/abs/2506.12723) | - | - |
+| 2025 | arXiv | [CronusVLA: Transferring Latent Motion Across Time for Multi-Frame Prediction in Manipulation](https://arxiv.org/abs/2506.19816) | [🌐](https://lihaohn.github.io/CronusVLA.github.io/) | [💻](https://github.com/InternRobotics/CronusVLA) |
+| 2025 | arXiv | [VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting](https://arxiv.org/abs/2507.05116) | - | [💻](https://github.com/LukeLIN-web/VOTE) |
+| 2025 | arXiv | [Leveraging OS-Level Primitives for Robotic Action Management](https://arxiv.org/abs/2508.10259) | - | - |
+| 2025 | arXiv | [CogVLA: Cognition-Aligned Vision-Language-Action Model via Instruction-Driven Routing & Sparsification](https://arxiv.org/abs/2508.21046) | [🌐](https://jiutian-vl.github.io/CogVLA-page/) | [💻](https://github.com/JiuTian-VL/CogVLA) |
+| 2025 | arXiv | [SpecPrune-VLA: Accelerating Vision-Language-Action Models via Action-Aware Self-Speculative Pruning](https://arxiv.org/abs/2509.05614) | - | - |
+| 2025 | arXiv | [SQAP-VLA: A Synergistic Quantization-Aware Pruning Framework for High-Performance Vision-Language-Action Models](https://arxiv.org/abs/2509.09090) | - | [💻](https://github.com/ecdine/SQAP-VLA) |
+| 2025 | arXiv | [The Better You Learn, The Smarter You Prune: Towards Efficient Vision-language-action Models via Differentiable Token Pruning](https://arxiv.org/abs/2509.12594) | [🌐](https://liauto-research.github.io/LightVLA/) | - |
+| 2025 | arXiv | [KV-Efficient VLA: A Method of Speed up Vision Language Model with RNN-Gated Chunked KV Cache](https://arxiv.org/abs/2509.21354) | - | - |
+| 2025 | arXiv | [Action-aware Dynamic Pruning for Efficient Vision-Language-Action Manipulation](https://arxiv.org/abs/2509.22093) | - | - |
+| 2025 | arXiv | [Focusing on What Matters: Object-Agent-centric Tokenization for Vision Language Action models](https://arxiv.org/abs/2509.23655) | - | - |
 
 ### Efficient Training
 ![Efficient_Training](assets/Efficient_Training.png)
