@@ -16,6 +16,29 @@ To the best of our knowledge, this work presents the first comprehensive survey 
 ![TOC](assets/TOC.png)
 Fig. 1: **The Organization of Our Survey.** We systematically categorize efficient VLAs into three core pillars: (1) **Efficient Model Design**, encompassing efficient architectures and model compression techniques; (2) **Efficient Training**, covering efficient pre-training and post-training strategies; and (3) **Efficient Data Collection**, including efficient data collection and augmentation methods. The framework also reviews VLA foundations, key applications, challenges, and future directions, establishing the groundwork for advancing scalable embodied intelligence.
 
+## Table of Contents
+
+
+- [🔍 Table of Contents](#table-of-contents)
+- [Efficient Model Design](#efficient-model-design)
+  - [Single-System](#single-system)
+  - [Dual-System](#dual-system)
+- [🧩 Hierarchical Models](#hierarchical-models)
+  - [Planner Only](#planner-only)
+  - [Planner + Policy](#planner--policy)
+- [🚀 Other Advanced Field](#other-advanced-field)
+  - [Reinforcement Learning-based Methods](#reinforcement-learning-based-methods)
+  - [Training-Free Methods](#training-free-methods)
+  - [Learning from Human Videos](#learning-from-human-videos)
+  - [World Model-based VLA](#world-model-based-vla)
+- [🗂️ Datasets and Benchmarks](#datasets-and-benchmarks)
+  - [Real-world Robot Datasets](#real-world-robot-datasets)
+  - [Simulation Environments and Benchmarks](#simulation-environments-and-benchmarks)
+  - [Human Behavior Datasets](#human-behavior-datasets)
+  - [Embodied Datasets and Benchmarks](#embodied-datasets-and-benchmarks)
+- [🔖 Citation](#citation)
+- [📧 Contact Us](#contact-us)
+
 ## Efficient VLAs
 
 ### Efficient Model Design
