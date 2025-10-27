@@ -3,7 +3,6 @@
 # 🚀Efficient-VLAs-Survey
 [![arXiv](https://img.shields.io/badge/Arxiv-Efficient--VLAs--Survey-red?logo=arxiv)]
 [![website](https://img.shields.io/badge/Website-Efficient--VLAs--Survey-blue?logo=website)](https://evla-survey.github.io/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg?)](LICENSE)
 
 </div>
 
