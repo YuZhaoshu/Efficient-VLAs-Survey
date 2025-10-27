@@ -1,7 +1,7 @@
 <div align="center">
   
 # 🚀Efficient-VLAs-Survey
-[![arXiv](https://img.shields.io/badge/Arxiv-Efficient-VLAs-Survey-red?logo=arxiv)]
+[![arXiv](https://img.shields.io/badge/Arxiv-Efficient--VLAs--Survey-red?logo=arxiv)]
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg?)](LICENSE)
 
 </div>
