@@ -191,6 +191,13 @@ Fig. 4: Key strategies for **Efficient Training** in VLAs, divided into two main
 | Year | Venue | Paper | Website | Code |
 |------|-------|-------|---------|------|
 | 2025 | arXiv | [ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy](https://arxiv.org/abs/2502.05450) | [🌐](https://cccedric.github.io/conrft/) | [💻](https://github.com/cccedric/conrft) |
+| 2025 | arXiv | [RPD: Refined Policy Distillation: From VLA Generalists to RL Experts](https://arxiv.org/abs/2503.05833) | [🌐](https://refined-policy-distillation.github.io/) | [💻](https://github.com/Refined-Policy-Distillation/RPD)
+| 2025 | arXiv | [RIPT-VLA: Interactive Post-Training for Vision-Language-Action Models](https://arxiv.org/abs/2505.17016) | [🌐](https://ariostgx.github.io/ript_vla/) | [💻](https://github.com/Ariostgx/ript-vla) |
+| 2025 | arXiv | [VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning](https://arxiv.org/abs/2505.18719) | [🌐](https://congruous-farmhouse-8db.notion.site/VLA-RL-Towards-Masterful-and-General-Robotic-Manipulation-with-Scalable-Reinforcement-Learning-1953a2cd706280ecaad4e93a5bd2b8e3) | [💻](https://github.com/GuanxingLu/vlarl) |
+| 2025 | arXiv | [CO-RFT: Efficient Fine-Tuning of Vision-Language-Action Models through Chunked Offline Reinforcement Learning](https://arxiv.org/abs/2508.02219) | - | - |
+| 2025 | arXiv | [Balancing Signal and Variance: Adaptive Offline RL Post-Training for VLA Flow Models](https://arxiv.org/abs/2509.04063) | - | - |
+| 2025 | arXiv | [SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning](https://arxiv.org/abs/2509.09674) | - | [💻](https://github.com/PRIME-RL/SimpleVLA-RL) |
+| 2025 | arXiv | [World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training](https://arxiv.org/abs/2509.24948) | - | - |
 
 #### Efficient Data Collection
 ![Efficient_Data_Collection](assets/Efficient_Data_Collection.png)
