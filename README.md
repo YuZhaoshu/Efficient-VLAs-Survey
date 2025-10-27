@@ -207,7 +207,6 @@ Fig. 5: Taxonomy of **Efficient Data Collection** strategies in VLAs. This figur
 | 2025 | arXiv | [LLaRA: Supercharging Robot Learning Data for Vision-Language Policy](https://arxiv.org/abs/2406.20095)                       | -                                                             | [💻](https://github.com/LostXine/LLaRA)             |
 | 2025 | arXiv | [Vision-Language-Action Instruction Tuning: From Understanding to Manipulation](https://arxiv.org/abs/2507.17520)             | [🌐](https://yangs03.github.io/InstructVLA_Home/)             | [💻](https://github.com/InternRobotics/InstructVLA) |
 | 2025 | CoRL | [RoboChemist: Long-Horizon and Safety-Compliant Robotic Chemical Experimentation](https://arxiv.org/abs/2509.08820)           | [🌐](https://zzongzheng0918.github.io/RoboChemist.github.io/) | -                                                   |
-
 | 2025 | arXiv | [ERMV: Editing 4D Robotic Multi-view Images to Enhance Embodied Agents](https://arxiv.org/abs/2507.17462)                     | -                                                             | [💻](https://github.com/IRMVLab/ERMV)               |
 
 ## Contact Us
