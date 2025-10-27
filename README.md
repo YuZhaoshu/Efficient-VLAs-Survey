@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🚀Efficient-VLAs-Survey
+# 🚀A Survey on Efficient Vision-Language-Action Models
 [![arXiv](https://img.shields.io/badge/Arxiv-Efficient--VLAs--Survey-red?logo=arxiv)]
 [![website](https://img.shields.io/badge/Website-Efficient--VLAs--Survey-blue?logo=website)](https://evla-survey.github.io/)
 
