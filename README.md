@@ -1,7 +1,9 @@
-<div align="center"> 
+<div align="center">
+  
 # 🚀Efficient-VLAs-Survey
 [![arXiv](https://img.shields.io/badge/Arxiv-Large_VLM--based_VLA-red?logo=arxiv)]
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg?)](LICENSE)
+
 </div>
 
 > This is a curated list of "A Survey on Efficient Vision-Language Action Models" research.
