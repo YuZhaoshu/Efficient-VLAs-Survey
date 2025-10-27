@@ -25,6 +25,7 @@ Fig. 2: Key strategies for **Efficient Architectures** in VLAs. We illustrate si
 | 2025 | arXiv | [RetoVLA: Reusing Register Tokens for Spatial Reasoning in Vision-Language-Action Models](https://arxiv.org/abs/2509.21243) | [🌐](https://www.youtube.com/watch?v=2CseBR-snZg&feature=youtu.be) | - |
 | 2025 | arXiv | [KV-Efficient VLA: A Method of Speed up Vision Language Model with RNN-Gated Chunked KV Cache](https://arxiv.org/abs/2509.21354) | - | - |
 | 2025 | arXiv | [dVLA: Diffusion Vision-Language-Action Model with Multimodal Chain-of-Thought](https://arxiv.org/abs/2509.25681) | - | - |
+
 ##### Transformer Alternatives
 | Year | Venue | Paper | Website | Code |
 |------|-------|-------|---------|------|
@@ -47,6 +48,7 @@ Fig. 2: Key strategies for **Efficient Architectures** in VLAs. We illustrate si
 | 2025 | arXiv | [Leveraging OS-Level Primitives for Robotic Action Management](https://arxiv.org/abs/2508.10259) | - | - |
 | 2025 | arXiv | [NinA: Normalizing Flows in Action. Training VLA Models with Normalizing Flows](https://arxiv.org/abs/2508.16845) | - | - |
 | 2025 | arXiv | [Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies](https://arxiv.org/abs/2508.20072) | - | - |
+
 ##### Lightweight Component
 | Year | Venue | Paper | Website | Code |
 |------|-------|-------|---------|------|
@@ -130,6 +132,18 @@ Fig. 3: Key strategies for **Model Compression** in VLAs. We illustrate three pr
 Fig. 4: Key strategies for **Efficient Training** in VLAs, divided into two main stages. (a) **Efficient Pre-Training** migrates general-purpose VLMs into the embodied domain to create an initial, action-aware policy, encompassing **Data-Efficient Pre-training**, **Efficient Action Representation**, and **Other Pre-training Strategies**. (b) **Efficient Post-Training** subsequently specializes this policy for specific tasks, leveraging **Supervised Fine-tuning** and **RL-Based Methods**.
 
 #### Efficient Pre-Training
+| Year | Venue | Paper | Website | Code |
+|------|-------|-------|---------|------|
+| 2024 | IROS | [GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robot](https://arxiv.org/abs/2403.13358) | [🌐](https://songwxuan.github.io/GeRM/) | [💻](https://github.com/Songwxuan/GeRM) |
+| 2025 | ICLR | [Latent Action Pretraining from Videos](https://arxiv.org/abs/2410.11758) | [🌐](https://latentactionpretraining.github.io/) | [💻](https://github.com/LatentActionPretraining/LAPA) |
+| 2025 | arXiv | [HAMSTER: Hierarchical Action Models For Open-World Robot Manipulation](https://arxiv.org/abs/2502.05485) | [🌐](https://hamster-robot.github.io/) | [💻](https://github.com/liyi14/HAMSTER_beta) |
+| 2025 | arXiv | [Diffusion Trajectory-guided Policy for Long-horizon Robot Manipulation](https://arxiv.org/abs/2502.10040) | - | - |
+| 2025 | arXiv | [Humanoid-VLA: Towards Universal Humanoid Control with Visual Integration](https://arxiv.org/abs/2502.14795) | - | - |
+| 2025 | arXiv | [GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data](https://arxiv.org/abs/2505.03233) | [🌐](https://pku-epic.github.io/GraspVLA-web/) | [💻](https://github.com/PKU-EPIC/GraspVLA) |
+| 2025 | arXiv | [Learning to Act Anywhere with Task-centric Latent Actions](https://arxiv.org/abs/2505.06111) | - | [💻](https://github.com/OpenDriveLab/UniVLA) |
+| 2025 | arXiv | [Unified Vision-Language-Action Model](https://arxiv.org/abs/2506.19850) | [🌐](https://robertwyq.github.io/univla.github.io/) | [💻](https://github.com/baaivision/UniVLA) |
+| 2025 | arXiv | [EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos](https://arxiv.org/abs/2507.12440) | [🌐](https://rchalyang.github.io/EgoVLA/) | - |
+
 
 ##### Data-Efficient Pre-training
 
