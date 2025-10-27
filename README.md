@@ -41,7 +41,7 @@ Fig. 1: **The Organization of Our Survey.** We systematically categorize efficie
   - [Human-in-the-Loop Data Collection](#human-in-the-loop-data-collection)
   - [Simulation Data Collection](#simulation-data-collection)
   - [Internet-Scale and Cross-Domain Data Utilization](#internet-scale-and-cross-domain-data-utilization)
-  - [Self-Exploration Data Collection](#self-exploration-data-collectioin)
+  - [Self-Exploration Data Collection](#self-exploration-data-collection)
   - [Data Augmentation](#data-augmentation)
 - [🔖 Citation](#citation)
 - [📧 Contact Us](#contact-us)
