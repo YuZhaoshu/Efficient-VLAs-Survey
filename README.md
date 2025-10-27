@@ -68,11 +68,14 @@ Fig. 2: Key strategies for **Efficient Architectures** in VLAs. We illustrate si
 | 2025 | arXiv | [Learning to See and Act: Task-Aware View Planning for Robotic Manipulation](https://arxiv.org/abs/2508.05186) | [🌐](https://hcplab-sysu.github.io/TAVP/) | [💻](https://github.com/HCPLab-SYSU/TAVP) |
 
 ##### Hierarchical Systems
-Year,Venue,Paper,Website,Code
-2024,CoRL,HiRT: Enhancing Robotic Control with Hierarchical Robot Transformers,-,-
-2024,arXiv,"Towards Synergistic, Generalized, and Efficient Dual-System for Robotic Manipulation",🌐,-
-2024,arXiv,A Dual Process VLA: Efficient Robotic Manipulation Leveraging VLM,-,-
-2025,arXiv,HAMSTER: Hierarchical Action Models For Open-World Robot Manipulation,🌐,💻
+| Year | Venue | Paper | Website | Code |
+|------|-------|-------|---------|------|
+| 2024 | CoRL | [HiRT: Enhancing Robotic Control with Hierarchical Robot Transformers](https://arxiv.org/abs/2410.05273) | - | - |
+| 2024 | arXiv | [Towards Synergistic, Generalized, and Efficient Dual-System for Robotic Manipulation](https://arxiv.org/abs/2410.08001) | [🌐](https://robodual.github.io/) | - |
+| 2024 | arXiv | [A Dual Process VLA: Efficient Robotic Manipulation Leveraging VLM](https://arxiv.org/abs/2410.15549) | - | - |
+| 2025 | arXiv | [HAMSTER: Hierarchical Action Models For Open-World Robot Manipulation](https://arxiv.org/abs/2502.05485) | [🌐](https://hamster-robot.github.io/) | [💻](https://github.com/liyi14/HAMSTER_beta) |
+| 2025 | arXiv | [Fast-in-Slow: A Dual-System Foundation Model Unifying Fast Manipulation within Slow Reasoning](https://arxiv.org/abs/2506.01953) | [🌐](https://fast-in-slow.github.io/) | [💻](https://github.com/CHEN-H01/Fast-in-Slow) |
+| 2025 | arXiv | [MinD: Learning A Dual-System World Model for Real-Time Planning and Implicit Risk Analysis](https://arxiv.org/abs/2506.18897) | [🌐](https://manipulate-in-dream.github.io/) | [💻](https://github.com/manipulate-in-dream/MinD) |
 #### Model Compression
 ![Model_Compression](assets/Model_Compression.png)
 Fig. 3: Key strategies for **Model Compression** in VLAs. We illustrate three primary approaches: (a) **Layer Pruning**, which removes redundant layers to reduce model depth and computational cost; (b) **Quantization**, which reduces the numerical precision of model parameters to decrease memory footprint and accelerate inference; and (c) **Token Optimization**, which minimizes the number of processed tokens via token compression (merging tokens), token pruning (dropping non-essential tokens), and token caching (reusing static tokens).
