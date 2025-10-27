@@ -221,8 +221,8 @@ Fig. 4: Key strategies for **Efficient Training** in VLAs, divided into two main
 | 2025 | arXiv | [ControlVLA: Few-shot Object-centric Adaptation for Pre-trained Vision-Language-Action Models](https://arxiv.org/abs/2506.16211) | [🌐](https://controlvla.github.io/) | [💻](https://github.com/ControlVLA/ControlVLA) |
 | 2025 | arXiv | [CronusVLA: Transferring Latent Motion Across Time for Multi-Frame Prediction in Manipulation](https://arxiv.org/abs/2506.19816) | [🌐](https://lihaohn.github.io/CronusVLA.github.io/) | [💻](https://github.com/InternRobotics/CronusVLA) |
 | 2025 | arXiv | [InstructVLA: Vision-Language-Action Instruction Tuning: From Understanding to Manipulation](https://arxiv.org/abs/2507.17520) | [🌐](https://yangs03.github.io/InstructVLA_Home/) | [💻](https://github.com/InternRobotics/InstructVLA) |
-| 2025 | arXiv | [RICL: Adding In-Context Adaptability to Pre-Trained Vision-Language-Action Models](https://arxiv.org/abs/2508.02062) | [🌐](https://ricl-vla.github.io/) | [💻](https://github.com/ricl-vla/ricl_openpi) |
-| 2025 | arXiv | [ATE: Align-Then-stEer: Adapting the Vision-Language Action Models through Unified Latent Guidance](https://arxiv.org/abs/2509.02055) | [🌐](https://align-then-steer.github.io/) | [💻](https://github.com/TeleHuman/Align-Then-Steer) |
+| 2025 | CoRL | [RICL: Adding In-Context Adaptability to Pre-Trained Vision-Language-Action Models](https://arxiv.org/abs/2508.02062) | [🌐](https://ricl-vla.github.io/) | [💻](https://github.com/ricl-vla/ricl_openpi) |
+| 2025 | arXiv | [Align-Then-stEer: Adapting the Vision-Language Action Models through Unified Latent Guidance](https://arxiv.org/abs/2509.02055) | [🌐](https://align-then-steer.github.io/) | [💻](https://github.com/TeleHuman/Align-Then-Steer) |
 
 ##### RL-Based Method
 | Year | Venue | Paper | Website | Code |
