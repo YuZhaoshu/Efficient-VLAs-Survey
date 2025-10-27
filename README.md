@@ -25,7 +25,7 @@ Fig. 1: **The Organization of Our Survey.** We systematically categorize efficie
     - [Transformer Alternatives](#transformer-alternatives)
     - [Efficient Action Decoding](#efficient-action-decoding)
     - [Lightweight Component](#lightweight-component)
-    - [Mixture-of-Experts](#mixture-of-expert)
+    - [Mixture-of-Experts](#mixture-of-experts)
     - [Hierarchical Systems](#hierarchical-systems)
   - [Model Compression](#model-compression)
     - [Layer Pruning](#layer-pruning)
