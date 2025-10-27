@@ -93,7 +93,15 @@ Fig. 3: Key strategies for **Model Compression** in VLAs. We illustrate three pr
 | 2025 | arXiv | [FLOWER: Democratizing Generalist Robot Policies with Efficient Vision-Language-Action Flow Policies](https://arxiv.org/abs/2509.04996) | [🌐](https://intuitive-robots.github.io/flower_vla) | - |
 
 ##### Quantization
-- SP-VLA: A Joint Model Scheduling and Token Pruning Approach for VLA Model Acceleration. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2506.12723)]
+| Year | Venue | Paper | Website | Code |
+|------|-------|-------|---------|------|
+| 2024 | arXiv | [OpenVLA: An Open-Source Vision-Language-Action Model](https://arxiv.org/abs/2406.09246) | [🌐](https://openvla.github.io/) | [💻](https://github.com/openvla/openvla) |
+| 2024 | arXiv | [Quantization-Aware Imitation-Learning for Resource-Efficient Robotic Control](https://arxiv.org/abs/2412.01034) | - | - |
+| 2025 | arXiv | [FAST: Efficient Action Tokenization for Vision-Language-Action Models](https://arxiv.org/abs/2501.09747) | [🌐](https://www.pi.website/research/fast) | [💻](https://github.com/Physical-Intelligence/openpi) |
+| 2025 | arXiv | [Saliency-Aware Quantized Imitation Learning for Efficient Robotic Control](https://arxiv.org/abs/2505.15304) | - | - |
+| 2025 | arXiv | [BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation](https://arxiv.org/abs/2506.07530) | - | [💻](https://github.com/ustcwhy/BitVLA) |
+| 2025 | arXiv | [RLRC: Reinforcement Learning-based Recovery for Compressed Vision-Language-Action Models](https://arxiv.org/abs/2506.17639) | [🌐](https://rlrc-vla.github.io/) | - |
+| 2025 | arXiv | [SQAP-VLA: A Synergistic Quantization-Aware Pruning Framework for High-Performance Vision-Language-Action Models](https://arxiv.org/abs/2509.09090) | - | [💻](https://github.com/ecdine/SQAP-VLA) |
 
 ##### Token Optimization
 - VLA-Cache: Towards Efficient Vision-Language-Action Model via Adaptive Token Caching in Robotic Manipulation. <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2502.02175)]
