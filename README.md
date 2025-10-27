@@ -18,24 +18,33 @@ Fig. 1: **The Organization of Our Survey.** We systematically categorize efficie
 
 ## Table of Contents
 
-
 - [🔍 Table of Contents](#table-of-contents)
-- [Efficient Model Design](#efficient-model-design)
-  - [Single-System](#single-system)
-  - [Dual-System](#dual-system)
-- [🧩 Hierarchical Models](#hierarchical-models)
-  - [Planner Only](#planner-only)
-  - [Planner + Policy](#planner--policy)
-- [🚀 Other Advanced Field](#other-advanced-field)
-  - [Reinforcement Learning-based Methods](#reinforcement-learning-based-methods)
-  - [Training-Free Methods](#training-free-methods)
-  - [Learning from Human Videos](#learning-from-human-videos)
-  - [World Model-based VLA](#world-model-based-vla)
-- [🗂️ Datasets and Benchmarks](#datasets-and-benchmarks)
-  - [Real-world Robot Datasets](#real-world-robot-datasets)
-  - [Simulation Environments and Benchmarks](#simulation-environments-and-benchmarks)
-  - [Human Behavior Datasets](#human-behavior-datasets)
-  - [Embodied Datasets and Benchmarks](#embodied-datasets-and-benchmarks)
+- [🚀Efficient Model Design](#efficient-model-design)
+  - [Efficient Architectures](#efficient-architectures)
+    - [Efficient Attention](#efficient-attention)
+    - [Transformer Alternatives](#transformer-alternatives)
+    - [Efficient Action Decoding](#efficient-action-decoding)
+    - [Lightweight Component](#lightweight-component)
+    - [Mixture-of-Experts](#mixture-of-expert)
+    - [Hierarchical Systems](#hierarchical-systems)
+  - [Model Compression](#model-compression)
+    - [Layer Pruning](#layer-pruning)
+    - [Quantization](#quantization)
+    - [Token Optimization](#token-optimization)
+- [Efficient Training](#efficient-training)
+  - [Efficient Pre-Training](#efficient-pre-training)
+    - [Data-Efficient Pre-training](#data-efficient-pre-training)
+    - [Efficient Action Representation](#efficient-action-representation)
+    - [Other Pre-training Strategies](#other-pre-training-strategies)
+  - [Efficient Post-Training](#efficient-post-training)
+    - [Supervised Fine-tuning](#supervised-fine-tuning)
+    - [RL-Based Method](#rl-based-method)
+- [Efficient Data Collection](#efficient-data-collection)
+  - [Human-in-the-Loop Data Collection](#human-in-the-loop-data-collection)
+  - [Simulation Data Collection](#simulation-data-collection)
+  - [Internet-Scale and Cross-Domain Data Utilization](#internet-scale-and-cross-domain-data-utilization)
+  - [Self-Exploration Data Collection](#self-exploration-data-collectioin)
+  - [Data Augmentation](#data-augmentation)
 - [🔖 Citation](#citation)
 - [📧 Contact Us](#contact-us)
 
@@ -280,6 +289,22 @@ Fig. 5: Taxonomy of **Efficient Data Collection** strategies in VLAs. This figur
 | 2025 | arXiv | [Vision-Language-Action Instruction Tuning: From Understanding to Manipulation](https://arxiv.org/abs/2507.17520)             | [🌐](https://yangs03.github.io/InstructVLA_Home/)             | [💻](https://github.com/InternRobotics/InstructVLA) |
 | 2025 | CoRL | [RoboChemist: Long-Horizon and Safety-Compliant Robotic Chemical Experimentation](https://arxiv.org/abs/2509.08820)           | [🌐](https://zzongzheng0918.github.io/RoboChemist.github.io/) | -                                                   |
 | 2025 | arXiv | [ERMV: Editing 4D Robotic Multi-view Images to Enhance Embodied Agents](https://arxiv.org/abs/2507.17462)                     | -                                                             | [💻](https://github.com/IRMVLab/ERMV)               |
+
+## Citation
+
+If you find this survey helpful for your research or applications, please consider citing it using the following BibTeX entry:
+
+```
+@misc{yu2025efficientvlassurvey,
+      title={A Survey on Efficient Vision-Language-Action Models}, 
+      author={Zhaoshu Yu and Bo Wang and Pengpeng Zeng and Haonan Zhang and Ji Zhang and Lianli Gao and Jingkuan Song and Nicu Sebe and Heng Tao Shen},
+      year={2025},
+      eprint={/},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={/}, 
+}
+```
 
 ## Contact Us
 
