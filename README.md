@@ -297,10 +297,10 @@ If you find this survey helpful for your research or applications, please consid
       title={A Survey on Efficient Vision-Language-Action Models}, 
       author={Zhaoshu Yu and Bo Wang and Pengpeng Zeng and Haonan Zhang and Ji Zhang and Lianli Gao and Jingkuan Song and Nicu Sebe and Heng Tao Shen},
       year={2025},
-      eprint={/},
+      eprint={2510.24795},
       archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={/}, 
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2510.24795}, 
 }
 ```
 
