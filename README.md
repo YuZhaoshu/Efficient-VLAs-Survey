@@ -4,6 +4,10 @@
 [![arXiv](https://img.shields.io/badge/Arxiv-Efficient--VLAs--Survey-red?logo=arxiv)](https://arxiv.org/abs/2510.24795)
 [![website](https://img.shields.io/badge/Website-Efficient--VLAs--Survey-blue?logo=website)](https://evla-survey.github.io/)
 
+<h3 align="center">
+  <strong>⭐ Give us a star if you like it~ ⭐</strong>
+</h3>
+
 </div>
 
 > This is a curated list of "A Survey on Efficient Vision-Language Action Models" research.
