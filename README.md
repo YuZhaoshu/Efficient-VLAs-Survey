@@ -66,6 +66,8 @@ Fig. 2: Key strategies for **Efficient Architectures** in VLAs. We illustrate si
 | 2025 | arXiv | [RetoVLA: Reusing Register Tokens for Spatial Reasoning in Vision-Language-Action Models](https://arxiv.org/abs/2509.21243) | [🌐](https://www.youtube.com/watch?v=2CseBR-snZg&feature=youtu.be) | - |
 | 2025 | arXiv | [KV-Efficient VLA: A Method of Speed up Vision Language Model with RNN-Gated Chunked KV Cache](https://arxiv.org/abs/2509.21354) | - | - |
 | 2025 | arXiv | [dVLA: Diffusion Vision-Language-Action Model with Multimodal Chain-of-Thought](https://arxiv.org/abs/2509.25681) | - | - |
+| 2025 | arXiv | [Running VLAs at Real-time Speed](https://arxiv.org/abs/2510.26742) | - | [💻](https://github.com/Dexmal/realtime-vla) |
+
 
 ##### Transformer Alternatives
 | Year | Venue | Paper | Website | Code |
