@@ -315,3 +315,7 @@ If you find this survey helpful for your research or applications, please consid
 For any questions or suggestions, please feel free to contact us at:
 
 Email: yuzhaoshu@gmail.com
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=YuZhaoshu/Efficient-VLAs-Survey&type=date&legend=top-left)](https://www.star-history.com/#YuZhaoshu/Efficient-VLAs-Survey&type=date&legend=top-left)
