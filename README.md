@@ -17,6 +17,7 @@ To the best of our knowledge, this work presents the first comprehensive survey 
 
 ## News 🔥
 
+- **`2026.09.10`: Our paper has been accepted by IEEE TPAMI！**
 - `2026.08.23`: Several recent papers on efficient VLA have been updated
 - `2026.06.18`: Refreshed the paper lists and added recent robot-efficient-VLA papers, with an emphasis on model efficiency, adaptation efficiency, and data efficiency for robotic manipulation.
 - `2025.09.12`: This repository was initialized.
